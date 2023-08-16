@@ -43,7 +43,7 @@ It is compatible with all major operating systems..
 [Back to Top ⬆️](#top)
 
 <h2 id="installation"> 🛠️ Installation</h2>
-To run this math magican project, follow these steps:
+To run this math magican, follow these steps:
 <br>
 
 - [Repository Link] (https://github.com/Kaiserabbas/Math-Magicians.git)
