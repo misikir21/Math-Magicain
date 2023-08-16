@@ -4,6 +4,10 @@
       "es6": true,
       "jest": true
     },
+    
+  "extends": "react-app",
+  
+    
     "parser": "@babel/eslint-parser",
     "parserOptions": {
       "ecmaFeatures": {
