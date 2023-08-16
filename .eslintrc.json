@@ -4,10 +4,7 @@
       "es6": true,
       "jest": true
     },
-    
-  "extends": "react-app",
   
-    
     "parser": "@babel/eslint-parser",
     "parserOptions": {
       "ecmaFeatures": {
@@ -16,7 +13,7 @@
       "ecmaVersion": 2018,
       "sourceType": "module"
     },
-    "extends": ["airbnb", "plugin:react/recommended", "plugin:react-hooks/recommended"],
+    "extends": ["airbnb", "plugin:react/recommended", "plugin:react-hooks/recommended","react-app"],
     "plugins": ["react"],
     "rules": {
       "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
