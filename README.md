@@ -42,7 +42,7 @@ It is compatible with all major operating systems..
 [Back to Top ⬆️](#top)
 
 <h2 id="installation"> 🛠️ Installation</h2>
-To run Fusion Bites Restaurant locally, follow these steps:
+To run this project, follow these steps:
 <br>
 
 - [Repository Link] (https://github.com/Kaiserabbas/Math-Magicians.git)
@@ -102,9 +102,7 @@ Full stack developers with 3+ years of experience building user-friendly and int
 Contact 📞
 If you have any inquiries, suggestions, or feedback, please feel free to contact us. You can reach out to us via:
 
-- [misikirteka@gmail.com) <br>
-- [Phone:](+251924849485) <br>
-  Social Media: Follow us on Twitter, Facebook, and Instagram for updates and special offers.
+- [misikirteka@gmail.com) <be>
 - [Github](https://github.com/misikir21)
 - [LinkedIn](https://www.linkedin.com/in/misikira)
 
